@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Kimi K3 and Misconceptions"
+subtitle: "The new Chinese LLM is not what (some) people think."
+math: false
+draft: false
+---
+
+Kimi K3, the new open-weights LLM from Chinese lab *Moonshot AI*, dropped last week. It's a powerful model that, perhaps inevitably, sparked debate --- including accusations of ushering in decelerationist '[AI communism](https://xcancel.com/deanwball/status/2078133895766114412?s=20)' (whatever that means).
+
+Amidst the noise, a number of AI commentators (including the Hard Fork guys and Scott Galloway) have asserted that K3 is noteworthy because it's nearly as good as US models, at a fraction of the cost.
+
+Unfortunately, they are wrong. Just because a model is Chinese, it is not magically cheap. And in fact, K3 isn't cheap. Across Artificial Analysis's '[Intelligence Index](https://artificialanalysis.ai/)' benchmark, it cost slightly less per task than OpenAI's top model. Compared to other Chinese models, it's positively expensive - double the cost of GLM-5.2, and ~20x more than DeepSeek V4.
+
+<figure class="illustration">
+  <img src="/assets/images/kimi_cost.png" width="640" height="480" alt="Chart of model costs">
+  <figcaption></figcaption>
+</figure>
+
+
+There's nuance, of course. Kimi costs less for [coding](https://artificialanalysis.ai/agents/coding-agents), but more for [office work](https://artificialanalysis.ai/evaluations/aa-briefcase). It's verbose, so it takes longer to solve problems. It's open-weights, so you could (with a few GPUs) finetune it for your own purposes. But we're not talking nuance here, this is just about one claim that I've seen/heard enough to find annoying.
+
+In summary: Is K3 a big step forwards for Chinese LLMs (and the open-weights people)? *Yes*. Is it concerning for the US market that a Chinese lab have fast-followed OpenAI and Anthropic with much less capex, possibly aided by distillation? *Also yes*. **Is it cheap?** ***No. No it isn't. It's not another 'DeepSeek moment'. Please stop saying it. Please stop for god's sake***.
