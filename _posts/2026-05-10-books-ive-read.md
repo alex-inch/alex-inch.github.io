@@ -6,22 +6,74 @@ date: 2026-05-10
 featured: true
 book_notes: true
 ---
+## Sep 26 | *Other Minds: The Octopus…* by Peter Godfrey-Smith (4/5)
+*Still reading*: A philosopher discusses consciousness by diving into the world of cephalopod intelligence, including octopuses and cuttlefish. Why cephalopods? Well, they're our most distant relative which still exhibits signs of intelligence. We've more or less evolved intelligent brains on parallel paths. That raises questions about our conception of intelligence. For example, in primates there's a correlation between brain size and how large the social network is (we have social networks up to 150, chimps 50, gorillas 20). But octopuses are largely solitary. So why get clever?
+
+<!-- - Perceptual constancies -->
+<!-- - Two halves of the brain: you can teach a pigeon something via one-eye, but it won't learn it from the other eye. And multiple streams of experience - DF/blindsight hints that we having a working space/arena (TKTK what does the book call it?), but we can still process short-term visual information. -->
+<!-- - Stronger evidence for this idea that maybe, rather than a single control centre, a brain can work like a series of miniature actors in sync (rowers in a boat staying in rhythm. evolutionary angle since early multicellularity came from individual guys getting stuck together. Another point - think about individual ants, they can communicate via pheromones and stuff. What makes them so different to cells in a body? Likewise - he discusses single-celled bacteria that can sense other bacteria and use them to glow together, which then kinda get incorporated into jellyfish or something TODO: CHECK THIS IS TRUE. -->
+<!-- - Language is an important tool for thought, and inner speech is not mere mental-acoustic froth. But it is not essential to the organisation of ideas, and language is not *the* medium of complex though. -->
+<!-- - afference (what you take in), exafference (what you take in due to external happenings) and reafference (what you take in due to your own actions, like turning your head). Tricks for distinguishing them involve efference (what you do). When we turn our head, our brain sends an 'efference copy' of the muscular instruction to the visual cortex, so it can anticipate the change in scenery. This can happen in more subtle ways - like writing yoursel a note to read later. Has any robot ever done something like that? Restructuring its environment (efference) to affect its later intakes (afference)? Note that cephalopod communication via colour changing doesn't enable this kind of loop the way our language does.-->
+
+
+
+## Sep 26 | *Surfing Uncertainty* by Andy Clark (3/5)
+
+*Still reading*: The more technical precursor to Clark's book *The Experience Machine.* First impressions: more technical detail, and much more painful to work through. 
+
+
+## Aug 26 | *Consider the Lobster* by David Foster Wallace (4/5)
+*Still reading*: Great read so far. David Foster Wallace is a brilliant writer. Favourite essay so far is Big Red Son, a piece of gonzo journalism in which he attends an Oscar's-style award ceremony put on by the US porn industry. Hilarious, unnerving, fascinating. Looking forward to reading more.
+
+
+## Aug 26 | *Infinity Machine* by Sebastian Mallaby (3/5)
+A month ago, Anthropic's CEO, Dario Amodei, [tweeted](https://x.noodl3.net/DarioAmodei/status/2088758819304443967) *'At this point, saying that AI will cure cancer is more a cliche than it is inspiring, and most people think it is deceptive. The thing that will work is actually curing cancer.'*
+
+Demis Hassabis --- the subject of *Infinity Machine* --- is the only CEO of an AI lab that can credibly claim he's actually made progress in that direction. His AI lab, DeepMind, released the protein folding model AlphaFold, as well as making contributions in other domains like weather prediction and nuclear fusion. As someone in research, I think you could do much worse than Hassabis.
+
+The book runs through Hassabis's life, charting his childhood as a chess prodigy, his discovery of AI as student, and later wheelings-and-dealings in the halls of power at Google. Over time, though, the focus sags. Mallaby has researched the book over the course of many interviews with central figures in modern AI. He seems to cram in everything he heard, even if it distracts a bit: Elon Musk's tantrums at OpenAI, Sam Altman's ouster, Mustafa Suleyman's departure from DeepMind, John Jumper's time at DE Shaw Research...
+
+The other main issue is that the book barely interrogates its subjects. Hassabis talks about how he's only interested in scientific truth, rather than looking for power or money. He does seem to have accrued a lot of money and power along the way though. I don't doubt that he's noble-minded, but he also clearly has a competitive streak that opens up blindspots. When OpenAI launch ChatGPT, he's obssessed with winning, not with advancing the research frontier. Now that he's [stepped back from DeepMind](https://www.theguardian.com/technology/2026/aug/05/big-shake-up-in-googles-ai-team-as-deepmind-chief-executive-steps-down), the proof will be in what he does next. Hopefully something a bit more interesting: *'Right now everyone's just caught in the frenzy of "can we make the foundation model 10% better?" The other things we should be think about are receding into the distance.'*
+
+And anyway, I told a fib. The *greatest* sin committed in *Infinity Machine* isn't that it lacks focus, or is a bit of a hagiography. It's that the writing veers from functionally dull highs to outright irritating lows. Mallaby has invented this maddeningly stupid term for AI which he insists on using constantly: the 'infinity machine.' It's all *'infinite this'*, *'infinite that'*, *'an infinity of possibilities'*. Does it convey anything useful? Maybe only the infinite patience Mallaby expects of his reader.
+
+In conclusion: the book is fine. I doubt many people would make it through this book without a prior interest in the subject. I got through it because I am quite interested Hassabis. But in general, I'd say it's just fine. Get it if you're interested in Hassabis, AI, or Silicon Valley entrepeneurship. Skip otherwise.
+
+*Sidenote: this was my first time trying an audiobook (since you get one free one a month on Spotify). I'm split on whether I liked it. I'm sure I'll retain less of this book than I normally would if I'd read it off the page --- it's so easy to drift away or miss a detail when you're also doing things in the real world. But it was nice as a sort of extended podcast, for a topic I didn't care about too deeply.*
+
+<!-- I wish there was more on where Hassabis is going next. It seems like he has clear vision during the AlphaGo and AlphaFold days. And then LLMs come and he's trying to make products and it sounds like pure cope. And now he's quit DeepMind - does he have any vision left? Is he spent? I wish this book could ask these questions. -->
+
+## Aug 26 | *The Art of Explanation* by Ros Atkins (2/5)
+I was disappointed with *The Art of Explanation*. I had hoped for a discussion of how explanation works and how we actually get the 'Aha!' moment --- something to fire a bit of imagination. Instead, the book is practical, and a bit mundane. It's dedicated to the recipe that Atkins uses to write articles or scripts. That means numbered lists with the criteria he looks for. A multistep formula to be applied when planning an explainer. Grey marks on the sides of the pages so you can open it back up to step 4 (*ORGANISE THE INFORMATION*) like a reference manual.
+
+I found the book at once too-detailed and hard-to-follow --- ideas like "use simple language" occupy multiple pages, but it felt like it was explaining the bleeding obvious without many useful examples of what he'd consider simple. In the end I skimmed the book at a growing speed over the course of a two hour train ride. I don't feel like I need to revisit it to fill in the gaps.
+
+That's not to say the book is worthless, or that the ideas don't make sense. I've tried some of Atkins' tips; like organising information into 'threads' and testing different orders before getting into the writing. They're handy. Even so, I can't shake the feeling that, in the same way that there are meetings which could've been an email, this book could have been a blog post.
+
+## Aug 26 | *Everything I Know About Love* by Dolly Alderton
+A cozy autobiographical read touching on self-worth, relationships (both platonic and romantic), and life as a young millennial in London. The book was widely popular, but I feel like I'm in a particularly tight circle of readers. Alongside her misadventures in love, Alderton leads a certain kind of London posho path through life (private school -> uni -> journo) that I recognised --- I come from the same set. Honestly, she might as well have been my older sister Cat (who even recommended this book to me in the past). The familiarity meant that Alderton's jokes and observations all landed well for me. I thought this book was pretty funny.
+
+Strangely, though, the connections to my own life extend beyond that. *Everything I Know About Love* is dedicated to, and a chapter is given over to describing, a friend (and late-teenage crush) of mine --- Florence Kleiner. Flo was funny and charming and energetic. Her chapter jogged memories I'd not thought about in years. As seventeen-year-olds we saw Matthew Bourne's Swan Lake with some friends. During the final climax, the swans brutally savage and attack the lead as he tries to protect his beloved Prince. I looked over to Flo, and saw tears welling in her eyes, spilling over, and quietly trickling down her cheek.
+
+Flo passed away from leukaemia when she was 19. Whatever the writing or the narrative or the tone, this book gave me a chance to remember her. It's a rare thing, and I'm grateful for it.
 
 ## Jul 26 | *The Lost Homestead* by Marina Wheeler (3/5)
-*The Lost Homestead* is interesting, and tough to pin down. Part-memoir, part-biography, part history of India; the book covers the run up to Partition, when the country split into Pakistan and India (and eventually Bangladesh), through to the era of the current Modi government. Wheeler digs into the history alongside stories of her family, predominantly those of her mother, Dip. The book is well-written, and Dip is a likable, self-possessed main character. When Dip leaves India with her husband, Dip's mother worries that, without servants, she'll spend her life scrubbing pans. In the present, Wheeler looks up from her laptop. Her mother's hands are in the sink.
+*The Lost Homestead* is tough to pin down --- it's all-at-once a memoir, a biography, and a brief history of India. The book covers the run up to Partition, when the country split into Pakistan and India, through to the era of the current Modi government. Wheeler digs into the history and shares stories of her mother, Dip. Dip is a likable, self-possessed main character; when she leaves India with her English husband, Dip's mother worries that, without servants, she'll spend her life scrubbing pans. In the present, Wheeler looks up from her laptop to see her mother's hands in the sink.
 
-Alongside the memoir, Wheeler offers commentary on Indian history and politics. I don't know enough to judge whether Wheeler is right or wrong, but these sections read as shallow. The biographical detail leans on her wealthy family's history, who were shielded from much of the turmoil she describes. For example, the great loss of Partition involves her grandfather abandoning his estate in the Punjab, to move his family into a, err, glittering mansion in Delhi. When Wheeler wonders whether the British Empire is unfairly vilified, she marvels at the railways, but skims over the Bengal Famine.
+Alongside the memoir, Wheeler offers commentary on Indian history and politics. I don't know enough to judge, but these sections feel shallow. The biographical detail leans on her wealthy family's history, who were shielded from much of the turmoil she describes. For example, the great loss of Partition involves her grandfather abandoning his estate in the Punjab, to move his family into a, err, glittering mansion in Delhi. When Wheeler wonders whether the British Empire is unfairly vilified, she marvels at the railways, but skims over the Bengal Famine.
 
-I haven't read much about modern Indian history. To that end, the book was an easy-to-read, broad strokes introduction with a charming personal touch. But as an authoritative history with a substantive treatment of modern India, it falls short.
+I haven't read much about modern Indian history. To that end, the book was an easy-to-read, broad strokes introduction with a charming personal touch. But it fell short as a history of India. I'd read it if you're in the market for an easy-to-read story about a daughter and her mother with light detail on Indian history.
 
 
 ## Jun 26 | *What Is Intelligence?* by Blaise Agüera y Arcas (5/5) 
 
-A fascinating read: thoughtful, dense (very dense) with technical detail, and quite provocative. The book is fairly broad, covering topics from evolving code, to the decentralised nature of consciousness, and whether sequence-learning is sufficient for generally intelligent AI. I've never found myself wanting to reread a 600-page tome before, but there's so much information in *What is Intelligence* that I need another go around just to begin absorbing it.
+A fascinating read: thoughtful, dense (very dense) with technical detail, and quite provocative. *What Is Intelligence?* is fairly broad, covering topics from evolving code, to the decentralised nature of consciousness, and whether sequence-learning is sufficient for generally intelligent AI. I've never found myself wanting to reread a 600-page tome before, but there's so much information in the book that I suspect I need another go-around just to begin absorbing it.
 
-The book is contrarian. Early on, Agüera tells the reader that he believes LLMs are intelligent. Naturally, I balked at that. But through the book he works through his thoughts in such a considered, self-consistent manner that it really does bear fruit. A memorable discussion touches on '[sphexishness](https://en.wikipedia.org/wiki/Sphex#Use_in_philosophy)' --- behaviour that looks intelligent becomes unimpressive once you know how it works. There's another fascinating diversion on the decentralised nature of cognition in octopuses (or octopi, or octopodes…), and how it relates to patients whose brains have been split down the middle. I've never read anything quite like it.
+The book is contrarian. Early on, Agüera tells the reader that he believes LLMs like ChatGPT are intelligent. I balked at that --- I reckon most people would. But through the book he works through his thoughts in such a considered, self-consistent manner that it really does bear fruit. I'm still sceptical, but far more sympathetic to Agüera's ideas than I would've expected.
 
- Ultimately, although I'm still a little sceptical of Agüera's ideas about intelligence, I've grown much more open to his views. Either way, the book is a fascinating, challenging read, that's well worth the time invested.
+Beyond the question of AI sentience, the book is packed with interesting information. One memorable discussion touches on '[sphexishness](https://en.wikipedia.org/wiki/Sphex#Use_in_philosophy)' --- behaviour typified by a kind of wasp that appears intelligent until you know how it works. Another I enjoyed gets into the decentralised nature of cognition in octopuses, and how it relates to split-brain human patients. I've never read anything quite like it.
+
+ Ultimately, while I'm still sceptical of Agüera's ideas about intelligence, his views are argued so clearly, and with such a wealth of supporting evidence that I've grown much more open to them. Either way, the book is a fascinating, challenging read. Well worth the time.
 
 
 ## May 26 | *Maintenance: Of Everything* by Stewart Brand (4/5)
@@ -59,7 +111,7 @@ Some memorable directions:
 - *'Reading takes time, and the glass teat takes too much of it.'* Lots of detail on setting up a workspace and limiting distraction so you can work hard.
 - *'What are you going to write about? Anything at all… **as long as you tell the truth**.'*
 - *'The basic rule of vocabulary is always use the first word that comes to your mind, if it is appropriate.'*
-- *'2nd draft = 1st draft --- 10%'*
+- *'2nd draft = 1st draft - 10%'*
 - Let a piece sit for six weeks after the first draft, and do not touch it or look at it. It will feel like someone else's piece when you return, and it is easier to kill someone else's darlings than your own.
 
 
