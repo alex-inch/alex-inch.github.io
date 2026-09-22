@@ -6,7 +6,7 @@ date: 2026-05-10
 featured: true
 book_notes: true
 ---
-## Sep 26 | *Other Minds: The Octopus…* by Peter Godfrey-Smith (4/5)
+## Sep 26 | *Other Minds: The Octopus and the Evolution of Intelligent Life* by Peter Godfrey-Smith (4/5)
 A philosopher discusses consciousness by diving into the world of cephalopod intelligence, including octopuses and cuttlefish. Why cephalopods? Peter Godfrey-Smith likes them because they're our most distant relative which still exhibits signs of intelligence --- humans and cephalopods evolved intelligent brains on parallel paths. That comparison raises questions about our conception of intelligence.
 
 For example, in primates there's a correlation between brain size and how large the animal's social network is (we have the biggest at up to 150, chimps 50, gorillas 20). But octopuses are largely solitary. So why get clever?
