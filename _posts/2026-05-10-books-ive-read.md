@@ -37,6 +37,10 @@ In sum: it's a good book, great food for thought, lovely images, would recommend
 ## Aug 26 | *Consider the Lobster* by David Foster Wallace (4/5)
 *Still reading*: Great read so far. David Foster Wallace is a brilliant writer. Favourite essay so far is Big Red Son, a piece of gonzo journalism in which he attends an Oscar's-style award ceremony put on by the US porn industry. Hilarious, unnerving and fascinating. Looking forward to more.
 
+<!-- There's something about comedy and tragedy. I often think about comedy series that take a tragic turn right at the end. I'm thinking Blackadder's men going over the top, or Mitchell and Webb's dementia-addled Sherlock Holmes telling Watson that he knows [he's lost his grip on reality](https://youtu.be/OV3NGcdtKMg?si=39xUZxD08gsgFKRr). When something funny turns tragic, it's a gut punch. TKTK There's a reason the classic face mask of drama has one side laughing and one side crying. I'm not the first person to make this observation. Something along these lines. -->
+
+<!-- Reading David Foster Wallace's essays feels a little bit like that. He's so smart, he's identifying TKTKTK. One essay will be side-splittingly funny, like 'Big Red Son' or 'How Tracy Austin Broke My Heart' (TK CHECK THE NAMES). The next will delve into watching 9/11 at his friend's house. -->
+
 
 ## Aug 26 | *Infinity Machine* by Sebastian Mallaby (3/5)
 A month ago, Anthropic's CEO, Dario Amodei, [tweeted](https://x.noodl3.net/DarioAmodei/status/2088758819304443967) *'At this point, saying that AI will cure cancer is more a cliche than it is inspiring, and most people think it is deceptive. The thing that will work is actually curing cancer.'*
@@ -56,7 +60,7 @@ Anyway, in conclusion: the book is fine. I doubt many people would make it throu
 <!-- I wish there was more on where Hassabis is going next. It seems like he has clear vision during the AlphaGo and AlphaFold days. And then LLMs come and he's trying to make products and it sounds like pure cope. And now he's quit DeepMind - does he have any vision left? Is he spent? I wish this book could ask these questions. -->
 
 ## Aug 26 | *The Art of Explanation* by Ros Atkins (2/5)
-I was disappointed with *The Art of Explanation*. I had hoped for a discussion of how explanation works and how we actually get the 'Aha!' moment --- something to fire a bit of imagination. Instead, the book is practical, and a bit mundane. It's dedicated to the recipe that Atkins uses to write articles or scripts. That means numbered lists with the criteria he looks for. A multistep formula to be applied when planning an explainer. Grey marks on the sides of the pages so you can open it back up to step 4 (*ORGANISE THE INFORMATION*) like a reference manual.
+I was disappointed with *The Art of Explanation*. I had hoped for a discussion of how explanation works and how we actually get the 'Aha!' moment --- something to fire a bit of imagination. Instead, the book is practical, and a bit mundane. It's dedicated to the recipe that Atkins uses to write articles or scripts. That means: the features of a good explanation in numbered list form; a multistep formula to be applied when planning an explainer; grey marks on the sides of the pages so you can open it back up to step 4 like a reference manual.
 
 I found the book at once too-detailed and hard-to-follow --- ideas like "use simple language" occupy multiple pages, but it felt like it was explaining the bleeding obvious without many useful examples of what he'd consider simple. In the end I skimmed the book at a growing speed over the course of a two hour train ride. I don't feel like I need to revisit it to fill in the gaps.
 
@@ -83,14 +87,16 @@ A fascinating read: thoughtful, dense (very dense) with technical detail, and qu
 
 The book is contrarian. Early on, Agüera tells the reader that he believes LLMs like ChatGPT are intelligent. I balked at that --- I reckon most people would. But through the book he works through his thoughts in such a considered, self-consistent manner that it really does bear fruit. I'm still sceptical, but far more sympathetic to Agüera's ideas than I would've expected.
 
-Beyond the question of AI sentience, the book is packed with interesting information. One memorable discussion touches on '[sphexishness](https://en.wikipedia.org/wiki/Sphex#Use_in_philosophy)' --- behaviour typified by a kind of wasp that appears intelligent until you know how it works. Another I enjoyed gets into the decentralised nature of cognition in octopuses, and how it relates to split-brain human patients. I've never read anything quite like it.
+Beyond the question of AI sentience, the book is packed with interesting information. One memorable discussion touches on '[sphexishness](https://en.wikipedia.org/wiki/Sphex#Use_in_philosophy)' --- behaviour that appears intelligent until you know how it works (named for a kind of wasp). Another part I enjoyed gets into the decentralised nature of cognition in octopuses, and how it relates to split-brain human patients. I've never read anything quite like it.
 
  Ultimately, while I'm still sceptical of Agüera's ideas about intelligence, his views are argued so clearly, and with such a wealth of supporting evidence that I've grown much more open to them. Either way, the book is a fascinating, challenging read. Well worth the time.
 
 
 ## May 26 | *Maintenance: Of Everything* by Stewart Brand (4/5)
 
-_'Taking responsibility for something can be a radical act.'_ On the surface, _Maintenance: Of Everything_ is about keeping sailing boats and motorbikes in good nick, but there's more to it --- how we maintain ourselves, our relationships and our lives. While I was reading the book, a magnet fell out of the case housing my e-reader (the cheapest one on Amazon). Previously I might have lived without, or bought a new one. Instead, I fixed it. Now I feel a small twinge of pride whenever I use the e-reader.
+_'Taking responsibility for something can be a radical act.'_
+
+On the surface, _Maintenance: Of Everything_ is about keeping sailing boats and motorbikes in good nick, but there's more to it --- how we maintain ourselves, our relationships and our lives. While I was reading the book, a magnet fell out of the case housing my e-reader (the cheapest one on Amazon). Previously I might have lived without, or bought a new one. Instead, I fixed it. Now I feel a small twinge of pride whenever I use the e-reader.
 
 The book is beautifully designed and put together, and it includes interesting sidebars from authors that commented online as Brand openly drafted the book on [Works in Progress](https://books.worksinprogress.co/). Strong recommend.
 
