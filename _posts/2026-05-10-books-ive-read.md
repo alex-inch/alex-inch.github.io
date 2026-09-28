@@ -31,7 +31,7 @@ In sum: it's a good book, great food for thought, lovely images, would recommend
 
 ## Sep 26 | *Surfing Uncertainty* by Andy Clark (3/5)
 
-*Still reading*: The precursor to Clark's book *The Experience Machine.* First impressions: more technical, more detailed, more difficult to read. 
+*Still reading*: The precursor to Clark's book *The Experience Machine.* First impressions: more technical, more detailed, and much more difficult to read. 
 
 
 ## Aug 26 | *Consider the Lobster* by David Foster Wallace (4/5)
