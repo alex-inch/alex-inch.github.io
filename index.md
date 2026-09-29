@@ -13,7 +13,7 @@ title: Home
     style="float:right;width:140px;height:auto;border-radius:8px;margin-left:1rem;margin-bottom:0.5rem;"
   >
   <h2 style="margin-top:0.25rem">About</h2>
-  <p>Hello! I'm <strong>Alex</strong>, I'm studying for a DPhil in AI & Robotics at the <a href="https://ori.ox.ac.uk/labs/a2i/">Applied AI Lab</a> at Oxford, as part of the <a href="https://www.rainz-cdt.ac.uk/">RAINZ CDT</a>. I work on world models for robotics, supervised by Professor Ingmar Posner. My research interests are world models, autonomous agentic systems and reinforcement learning.</p>
+  <p>Hello! I'm <strong>Alex</strong>, I'm studying for a DPhil in AI & Robotics at the <a href="https://ori.ox.ac.uk/groups/a2i">Applied AI Lab</a> at Oxford, as part of the <a href="https://www.rainz-cdt.ac.uk/">RAINZ CDT</a>. I work on world models for robotics, supervised by Professor Ingmar Posner. My research interests are world models, autonomous agentic systems and reinforcement learning.</p>
 </section>
 
 <section id="research" style="clear: both;">
