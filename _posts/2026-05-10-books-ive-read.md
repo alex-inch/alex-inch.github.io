@@ -6,6 +6,15 @@ date: 2026-05-10
 featured: true
 book_notes: true
 ---
+
+## Oct 26 | *The Left Hand of Darkness* by Ursula K. Le Guin (4/5)
+A sci-fi story about a spacefaring envoy on a planet where the people are neither male nor female, but '*ambisexual*': they fluctuate between genders on a monthly cadence. This is the most famous aspect of the book, and informs the story from fun details like the king's pregnancy, through to deeper questions about the tensions that arise from our gender identity and expression. For a book written in 1969, it remains remarkably relevant today.
+
+Like many sci-fi classics, *The Left Hand of Darkness* benefits from excellent world-building, but Le Guin has also written a great story on top of her world. The slow development of the two main characters drives the plot. As events unfold, they move from mutual distrust to profound camaraderie in the face of political scheming, faceless government, and a harsh, barren environment.
+
+It's an absorbing book; I read *The Left Hand of Darkness* front-to-back in a single sitting. Would recommend.
+
+
 ## Sep 26 | *Other Minds: The Octopus and the Evolution of Intelligent Life* by Peter Godfrey-Smith (4/5)
 A philosopher discusses consciousness by diving into the world of cephalopod intelligence, including octopuses and cuttlefish. Why cephalopods? Peter Godfrey-Smith likes them because they're our most distant relative which still exhibits signs of intelligence --- humans and cephalopods evolved intelligent brains on parallel paths. That comparison raises questions about our conception of intelligence.
 
@@ -29,14 +38,12 @@ In sum: it's a good book, great food for thought, lovely images, would recommend
 
 
 
-## Sep 26 | *Surfing Uncertainty* by Andy Clark (3/5)
-
-*Still reading*: The precursor to Clark's book *The Experience Machine.* First impressions: more technical, more detailed, and much more difficult to read. 
+## Sep 26 | *Surfing Uncertainty* by Andy Clark (2/5)
+The precursor to Clark's book *The Experience Machine.* More technical, more detailed, more difficult. 
 
 
 ## Aug 26 | *Consider the Lobster* by David Foster Wallace (4/5)
-*Still reading*: Great read so far. David Foster Wallace is a brilliant writer. Favourite essay so far is Big Red Son, a piece of gonzo journalism in which he attends an Oscar's-style award ceremony put on by the US porn industry. Hilarious, unnerving and fascinating. Looking forward to more.
-
+A collection of essays covering a broad range from the Adult Video Awards, the crushingly mundane biographer of a tennis pro, and a deep dive into the rage of US talk radio. It was my first time reading anything by David Foster Wallace, but I can see why he has the reputation he's garnered for phenomenal writing. Witty, hilarious and slightly melancholy. And while I'm here, listen to his commencement address [*This Is Water*](https://www.youtube.com/watch?v=xoblutORPNA) --- it's what drew me to . On the book --- would recommend.
 <!-- There's something about comedy and tragedy. I often think about comedy series that take a tragic turn right at the end. I'm thinking Blackadder's men going over the top, or Mitchell and Webb's dementia-addled Sherlock Holmes telling Watson that he knows [he's lost his grip on reality](https://youtu.be/OV3NGcdtKMg?si=39xUZxD08gsgFKRr). When something funny turns tragic, it's a gut punch. TKTK There's a reason the classic face mask of drama has one side laughing and one side crying. I'm not the first person to make this observation. Something along these lines. -->
 
 <!-- Reading David Foster Wallace's essays feels a little bit like that. He's so smart, he's identifying TKTKTK. One essay will be side-splittingly funny, like 'Big Red Son' or 'How Tracy Austin Broke My Heart' (TK CHECK THE NAMES). The next will delve into watching 9/11 at his friend's house. -->
