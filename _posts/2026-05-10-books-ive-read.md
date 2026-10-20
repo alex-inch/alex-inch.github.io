@@ -43,7 +43,9 @@ The precursor to Clark's book *The Experience Machine.* More technical, more det
 
 
 ## Aug 26 | *Consider the Lobster* by David Foster Wallace (4/5)
-A collection of essays covering a broad range from the Adult Video Awards, the crushingly mundane biographer of a tennis pro, and a deep dive into the rage of US talk radio. It was my first time reading anything by David Foster Wallace, but I can see why he has the reputation he's garnered for phenomenal writing. Witty, hilarious and slightly melancholy. And while I'm here, listen to his commencement address [*This Is Water*](https://www.youtube.com/watch?v=xoblutORPNA) --- it's what drew me to . On the book --- would recommend.
+A collection of essays covering a broad range from the Adult Video Awards, the crushingly mundane biographer of a tennis pro, and a deep dive into the rage of US talk radio. It was my first time reading anything by David Foster Wallace, but I can see why he garnered a reputation for phenomenal writing. The book is at once witty and a little melancholy. Strong recommend.
+
+And while you're here, listen to David Foster Wallace's incredibly commencement address [*This Is Water*](https://www.youtube.com/watch?v=xoblutORPNA).
 <!-- There's something about comedy and tragedy. I often think about comedy series that take a tragic turn right at the end. I'm thinking Blackadder's men going over the top, or Mitchell and Webb's dementia-addled Sherlock Holmes telling Watson that he knows [he's lost his grip on reality](https://youtu.be/OV3NGcdtKMg?si=39xUZxD08gsgFKRr). When something funny turns tragic, it's a gut punch. TKTK There's a reason the classic face mask of drama has one side laughing and one side crying. I'm not the first person to make this observation. Something along these lines. -->
 
 <!-- Reading David Foster Wallace's essays feels a little bit like that. He's so smart, he's identifying TKTKTK. One essay will be side-splittingly funny, like 'Big Red Son' or 'How Tracy Austin Broke My Heart' (TK CHECK THE NAMES). The next will delve into watching 9/11 at his friend's house. -->
