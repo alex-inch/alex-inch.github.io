@@ -6,6 +6,14 @@ date: 2026-05-10
 featured: true
 book_notes: true
 ---
+## Nov 26 | *Regime Change* by Maggie Haberman and Jonathan Swan (4/5)
+A look inside the second Trump presidency. Extremely deep reporting pairs with great writing to make this book simultaneously appalling and entertaining. Maybe the most important part of the book is retreading all the events of the second term so far. Things like: Musk and DOGE, pardons for 1,600 Jan 6 rioters, the kidnapping of Nicolás Maduro, ICE raids, tariff rates computed by ChatGPT, the attack on Edward 'Big Balls' Coristine, Alex Pretti and Renée Good's murders, renaming the Kennedy Centre to the Trump-Kennedy Centre, [_'Immigrant Deportation ASMR'_](https://www.cnbc.com/2025/02/18/white-house-x-immigrants-deportation-shackles-asmr-video.html), Canada as the 51st state, Steven Miller's war on birthright citizenship, the Whitehouse Ballroom, the war in Iran...
+
+The list goes on. It's been a bewildering couple years, even for people who don't live in the US. *Regime Change* is a great review of how strange it has all been. The book argues that Trump has irrevocably upended the international norms of the last 70 years. Writing this after the Democrats regained control of Congress and the Senate in the midterms, it's tempting to think things will go back to normal. But I think the horse has probably bolted. 
+
+*The political commentator John Judas had compared Trump to one of the philosopher Hegel's 'world-historical individuals.' Figures who, without fully understanding what they were doing, demolished one era and ushered in another.*
+
+Would recommend.
 
 ## Oct 26 | *The Left Hand of Darkness* by Ursula K. Le Guin (4/5)
 A sci-fi story about a spacefaring envoy on a planet where the people are neither male nor female, but '*ambisexual*': they fluctuate between genders on a monthly cadence. This is the most famous aspect of the book, and informs the story from fun details like the king's pregnancy, through to deeper questions about the tensions that arise from our gender identity and expression. For a book written in 1969, it remains remarkably relevant today.
@@ -43,9 +51,9 @@ The precursor to Clark's book *The Experience Machine.* More technical, more det
 
 
 ## Aug 26 | *Consider the Lobster* by David Foster Wallace (4/5)
-A collection of essays covering a broad range from the Adult Video Awards, the crushingly mundane biographer of a tennis pro, and a deep dive into the rage of US talk radio. It was my first time reading anything by David Foster Wallace, but I can see why he garnered a reputation for phenomenal writing. The book is at once witty and a little melancholy. Strong recommend.
+A collection of essays covering a broad range from the Adult Video Awards, the crushingly mundane biographer of a tennis pro, and a deep dive into the rage of US talk radio. It was my first time reading anything by David Foster Wallace, but I can see why he garnered a reputation for phenomenal writing. The book is both witty and melancholy. Strong recommend.
 
-And while you're here, listen to David Foster Wallace's incredibly commencement address [*This Is Water*](https://www.youtube.com/watch?v=xoblutORPNA).
+And while you're here, listen to David Foster Wallace's incredible commencement address [*This Is Water*](https://www.youtube.com/watch?v=xoblutORPNA).
 <!-- There's something about comedy and tragedy. I often think about comedy series that take a tragic turn right at the end. I'm thinking Blackadder's men going over the top, or Mitchell and Webb's dementia-addled Sherlock Holmes telling Watson that he knows [he's lost his grip on reality](https://youtu.be/OV3NGcdtKMg?si=39xUZxD08gsgFKRr). When something funny turns tragic, it's a gut punch. TKTK There's a reason the classic face mask of drama has one side laughing and one side crying. I'm not the first person to make this observation. Something along these lines. -->
 
 <!-- Reading David Foster Wallace's essays feels a little bit like that. He's so smart, he's identifying TKTKTK. One essay will be side-splittingly funny, like 'Big Red Son' or 'How Tracy Austin Broke My Heart' (TK CHECK THE NAMES). The next will delve into watching 9/11 at his friend's house. -->
@@ -85,9 +93,9 @@ Flo passed away from leukaemia when she was 19. Whatever the writing or the narr
 ## Jul 26 | *The Lost Homestead* by Marina Wheeler (3/5)
 *The Lost Homestead* is tough to pin down --- it's all-at-once a memoir, a biography, and a brief history of India. The book covers the run up to Partition, when the country split into Pakistan and India, through to the era of the current Modi government. Wheeler digs into the history and shares stories of her mother, Dip. Dip is a likable, self-possessed main character; when she leaves India with her English husband, Dip's mother worries that, without servants, she'll spend her life scrubbing pans. In the present, Wheeler looks up from her laptop to see her mother's hands in the sink.
 
-Alongside the memoir, Wheeler offers commentary on Indian history and politics. I don't know enough to judge, but these sections feel shallow. The biographical detail leans on her wealthy family's history, who were shielded from much of the turmoil she describes. For example, the great loss of Partition involves her grandfather abandoning his estate in the Punjab, to move his family into a, err, glittering mansion in Delhi. When Wheeler wonders whether the British Empire is unfairly vilified, she marvels at the railways, but skims over the Bengal Famine.
+Alongside the memoir, Wheeler offers commentary on Indian history and politics. I don't know enough to judge, but these sections feel shallow. The biographical detail leans on stories from her wealthy family, who were shielded from much of the turmoil. For example, the central loss of Partition involves her grandfather abandoning his estate in the Punjab to move his family into a, err, glittering mansion in Delhi. When Wheeler wonders whether the British Empire is unfairly vilified, she marvels at the railways, but skims over the Bengal Famine.
 
-I haven't read much about modern Indian history. To that end, the book was an easy-to-read, broad strokes introduction with a charming personal touch. But it fell short as a history of India. I'd read it if you're in the market for an easy-to-read story about a daughter and her mother with light detail on Indian history.
+I haven't read much about modern Indian history. Given my ignorance, the book was an easy-to-read, broad introduction with a charming personal touch. But it fell short as a history of India. I'd read it if you're in the market for an comfortable story about a daughter and her mother, with a smattering of modern Indian history.
 
 
 ## Jun 26 | *What Is Intelligence?* by Blaise Agüera y Arcas (5/5) 
